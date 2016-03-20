@@ -52,10 +52,10 @@ graph = {
 ```
 
 Then searching for a word will simply be:
-1. Find a starting point
-2. Is there more letters to look for?
-3. If No, return true
-4. If Yes, can we reach next letter in the list?
-5. If Yes, go there and repeat
-6. If No, then return false
+* Find a starting point
+* Is there more letters to look for?
+* If No, return true
+* If Yes, can we reach next letter in the list?
+* If Yes, go there and repeat
+* If No, then return false
 
