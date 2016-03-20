@@ -178,7 +178,7 @@ export function searchRecursive(input, currentLevel, currentIndex, currentWord, 
   // the backtracking algorithm later
   visited[''+currentLevel+','+currentIndex] = false;
   return false;
-};
+}
 
 /*
 Using a basic backtracking algorithm to search the adjacent honeycomb cells
